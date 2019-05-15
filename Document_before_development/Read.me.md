@@ -63,6 +63,6 @@ Link: [Google][googlelink]
 
 syntax: [Title](link)
 
-![Alt text](/path/to/img.jpg)
+![Alt text](/images/1.Requirement_Definition_Document.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 
